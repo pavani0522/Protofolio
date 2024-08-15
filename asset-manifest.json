@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Protofolio/static/css/main.b6bc7b22.css",
+    "main.js": "/Protofolio/static/js/main.24911970.js",
+    "static/media/backend.png": "/Protofolio/static/media/backend.8bf34cdeee92af58d505.png",
+    "static/media/pa.png": "/Protofolio/static/media/pa.6e26e7b62aba12e86205.png",
+    "static/media/aws.png": "/Protofolio/static/media/aws.a18e23249168e4512159.png",
+    "static/media/hibernate.png": "/Protofolio/static/media/hibernate.b8ae7c31ac99ef5cf90d.png",
+    "static/media/aws1.png": "/Protofolio/static/media/aws1.e4dc5fec6b233b86a80d.png",
+    "static/media/sb1.png": "/Protofolio/static/media/sb1.e5c3b3366027a8fe21d8.png",
+    "static/media/pa1.png": "/Protofolio/static/media/pa1.ad2a1d26f58497c613bc.png",
+    "static/media/pweb1.png": "/Protofolio/static/media/pweb1.a2705e9e6a9e362fe40c.png",
+    "static/media/react.png": "/Protofolio/static/media/react.45017e4a88d234bd6648.png",
+    "static/media/python.png": "/Protofolio/static/media/python.1c504f3ff554bd97722c.png",
+    "static/media/mongo.png": "/Protofolio/static/media/mongo.c10af3faa6dfd7fd4924.png",
+    "static/media/java1.png": "/Protofolio/static/media/java1.bcd387695a3172e7cf96.png",
+    "static/media/doc1.png": "/Protofolio/static/media/doc1.f2ae40ddae553f76bebe.png",
+    "static/media/javascript.png": "/Protofolio/static/media/javascript.c89a7f165587dba4e091.png",
+    "index.html": "/Protofolio/index.html",
+    "main.b6bc7b22.css.map": "/Protofolio/static/css/main.b6bc7b22.css.map",
+    "main.24911970.js.map": "/Protofolio/static/js/main.24911970.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6bc7b22.css",
+    "static/js/main.24911970.js"
+  ]
+}
